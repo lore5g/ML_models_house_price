@@ -45,7 +45,8 @@ Results:
 - R²: 0.91  
 - RMSE: $23,269  
 - The model captured the main trend but showed sensitivity to outliers and non-linear effects.  
-![equation](images/regression_eqn.PNG)
+  
+![equation](images/regression_eq.PNG)
 
 **🔹 Logistic Regression of the variable: Basement Full Bathroom**  
 
@@ -53,7 +54,7 @@ Results:
 - R²: 0.88  
 - MAE: 0.12 (Variable takes the values: 0, 1, 2)  
 - The model provided interpretable decision boundaries but was limited in capturing complex relationships.   
-**Confusion Matrix**  
+- **Confusion Matrix**  
 ![logistic_regression](images/logistic_regression.PNG)
 
 
@@ -63,8 +64,14 @@ Results:
 - Train and Test Accuracy: 0.66, 0.62  
 - Train and Test F1 weighted: 0.62, 0.56  
 - The model improved predictive performance but required regularization to control overfitting.  
-**Feature Importance**
+- **Feature Importance**
+  
 ![feature_importance](images/feature_importance.PNG)  
+
+- **Snapshot of Decision Tree**
+  
+![tree](images/tree.PNG)   
+
 
 ## **🧠 Key Technical Highlights**
 - **Exploratory Data Analysis (EDA)**
