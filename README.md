@@ -1,6 +1,7 @@
 # **🏠 House Prices — End-to-End Machine Learning Project**
 
 Author: Lorena Galvan – Data Scientist  
+
 Problem Type: Supervised Regression  
 Objective: Predict residential property sale prices using a house prices dataset from kaggle (https://www.kaggle.com/datasets/lespin/house-prices-dataset/data)
 
