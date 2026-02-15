@@ -129,6 +129,7 @@ house-prices-regression/
 │   ├── raw
 ├── notebooks
    └── house_prices_regression.ipynb
+├── images
 ```
 The notebook contains the complete workflow: data cleaning → feature engineering → modeling → evaluation.
 
