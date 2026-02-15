@@ -18,7 +18,7 @@ This project implements a full end-to-end data science workflow, from raw data e
 
 - Regularization and generalization control
 
-## 📈 What I Did
+## 📈 Technical Overview
 ### Exploratory Data Analysis
 
 
@@ -63,7 +63,7 @@ Results:
 Results:  
 - Train and Test Accuracy: 0.66, 0.62  
 - Train and Test F1 weighted: 0.62, 0.56  
-- The model improved predictive performance but required regularization to control overfitting.  
+- the model achieved moderate predictive performance, with a small gap between training and testing accuracy, indicating mild overfitting.
 - **Feature Importance**
   
 ![feature_importance](images/feature_importance.PNG)  
