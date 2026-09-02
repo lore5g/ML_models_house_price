@@ -141,3 +141,7 @@ Clone the repository
 Install dependencies
 
 Open the notebook and run sequentially
+
+## 📄 Additional Documentation
+
+- [Tableau to Power BI Migration Roadmap](docs/tableau-to-powerbi-migration-roadmap.md)
